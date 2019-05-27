@@ -9,7 +9,7 @@ Resume!
 
 ## Work Experience
 
-- [MOIN](https://www.themoin.com/) (2018.12.26 ~ )
+- ### [MOIN](https://www.themoin.com/) (2018.12.26 ~ )
     - role : front-end and some back-end part
 
 
@@ -38,29 +38,42 @@ Resume!
 
 ### Rubik's Cube
 
-- url : https://github.com/24seconds/RubiksCube
+#### period : 2019.03 ~ 2019.05
+
+- **demo** : https://24seconds.github.io/rubikscube/ (`support desktop view and mobile view in chrome`)
+
+- **url** : https://github.com/24seconds/RubiksCube
+
 - info : Implement rubik's cube using HTML, CSS, javascript
-- period : 2019.03 ~ 2019.05
+
 - team : alone
+
 - what I've learned : browser frame rendering process, gimbal lock, quaternion
 
   <img src="https://imgur.com/w7xYwSj.png" width="200">
 
 
 ### [KENS](https://github.com/ANLAB-KAIST/KENSv3)
+
+#### period : 2018.09 ~ 2018.12
+
  > Because of KENS policy, I can not show repository.
  
  - info : Implement TCP in C++
- - period : 2018.09 ~ 2018.12
+
  - team : alone
+
  - what I've Learned : How TCP works
 
 
 ### Mad Camp
+
+#### period : 2018.06 ~ 2018.08 (5 weeks in summer, 1 week for each project)
+
 > There is no visible images or videos of projects. But for me, I learned a lot through these projects. That's why I added.
 
  - info : Doing 5 projects for 5 weeks with teammates.
- - period : 2018.06 ~ 2018.08 (5 weeks in summer, 1 week for each project)
+
  - what I've learned : How to collaborate and communicate with other people, how to plan a game or an app
 
  1. Two Android apps : Basic App that shows contact, gallery and account book with/withouto server
@@ -88,10 +101,10 @@ Resume!
 
 ## Interest
 
-- PWA
 - React
-- Deep Learning
 - Web Security
+- PWA
+- Deep Learning
 
 
 ## Ect
