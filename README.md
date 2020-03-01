@@ -81,7 +81,7 @@ Updated : Sun 01 Mar 2020
 
 ------
 
-### Rubik's Cube
+### [Rubik's Cube](https://github.com/24seconds/RubiksCube)
 
 #### period : 2019.03 ~ 2019.05
 
