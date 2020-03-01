@@ -1,26 +1,32 @@
 # Resume
 Resume!
 
+Updated : Sun 01 Mar 2020
+
 ## Info
 
 - Name : GeunYeong, Cheon
 - E-mail : 24crazyoung@gmail.com
 - Study : CS & NQE at [KAIST](https://www.kaist.ac.kr/html/kr/index.html) (2014 ~ current)
+- Status : 산업기능요원 (2019.11 ~ current)
 
 ## Work Experience
 
-- ### [MOIN](https://www.themoin.com/) (2018.12.26 ~ )
+- ### [MOIN](https://www.themoin.com/) (2018.12.26 ~ 2019.08.19)
     - role : front-end and some back-end part
+- ### [VONVON](https://en.vonvon.me/)
+   - role : Android kotlin
 
 
 ## Skill
 
 ### Front-end
 
-- HTML, CSS, javascript
+- HTML, CSS, javascript (responsive, browser compatibility)
 - React
 - Babel, webpack
 - Sass
+- Android Kotlin
 
 ### Back-end
 
@@ -32,9 +38,46 @@ Resume!
 ### Others
  - Git
  - Jira, Confluence
+ - Trello
 
 
-## Project
+## Projects
+
+### Kartrider Roulette
+
+#### period: 2020.01 ~ 2020.02
+
+- **demo** : https://24seconds.github.io/kartrider-roulette/ (support chrome, firefox, windows exe - build using electorn)
+
+- **url** : https://github.com/24seconds/kartrider-roulette
+
+- info : Implement kartrider roulette
+
+- what I'v learned : 
+   - How to build application from scratch considering UI, UX and features. 
+   - Indexed DB
+   - how roulette animation works (it's more like slot machine animation) timing function and requestAnimationFrame, 
+   - electron build
+
+<img src="./assets/roulette_image_1.png" width="250" style="margin: 0px 16px;">
+<img src="./assets/roulette_image_2.png" width="280">
+
+------
+
+### Baseball Report
+
+#### period: 2019.12 ~ 2020.01
+
+- **url**: https://24seconds.github.io/baseballReport/
+
+- info : Write report of bet system
+
+- what I'v learned  
+  - data crawling, how other web site works, process raw data (parse html and get data)  
+  - hugo theme, understand http request more
+
+
+------
 
 ### Rubik's Cube
 
@@ -48,10 +91,15 @@ Resume!
 
 - team : alone
 
-- what I've learned : browser frame rendering process, gimbal lock, quaternion
+- what I've learned 
+   - how to make application using vanilla js
+   - browser frame rendering process (requestAnimationFrame)  
+   - gimbal lock, quaternion  
+   - how to design application from scratch  
 
-  <img src="https://imgur.com/w7xYwSj.png" width="200">
+  <img src="https://imgur.com/w7xYwSj.png" width="200" style="margin: 16px 0;">
 
+-----
 
 ### [KENS](https://github.com/ANLAB-KAIST/KENSv3)
 
@@ -65,6 +113,7 @@ Resume!
 
  - what I've Learned : How TCP works
 
+----
 
 ### Mad Camp
 
@@ -102,9 +151,9 @@ Resume!
 ## Interest
 
 - React
-- Web Security
-- PWA
-- Deep Learning
+- Rust
+- Infrastructure
+- Testing
 
 
 ## Ect
