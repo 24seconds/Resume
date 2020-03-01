@@ -17,6 +17,7 @@ Updated : Sun 01 Mar 2020
 - ### [VONVON](https://en.vonvon.me/)
    - role : Android kotlin
 
+-----------
 
 ## Skill
 
@@ -40,16 +41,17 @@ Updated : Sun 01 Mar 2020
  - Jira, Confluence
  - Trello
 
+-----------
 
 ## Projects
 
-### Kartrider Roulette
+### [Kartrider Roulette](https://github.com/24seconds/kartrider-roulette)
 
 #### period: 2020.01 ~ 2020.02
 
-- **demo** : https://24seconds.github.io/kartrider-roulette/ (support chrome, firefox, windows exe - build using electorn)
+- **demo** : [https://24seconds.github.io/kartrider-roulette/](https://24seconds.github.io/kartrider-roulette/) (support chrome, firefox, windows exe - build using electorn)
 
-- **url** : https://github.com/24seconds/kartrider-roulette
+- **url** : [https://github.com/24seconds/kartrider-roulette](https://github.com/24seconds/kartrider-roulette)
 
 - info : Implement kartrider roulette
 
@@ -64,11 +66,11 @@ Updated : Sun 01 Mar 2020
 
 ------
 
-### Baseball Report
+### [Baseball Report](https://24seconds.github.io/baseballReport/)
 
 #### period: 2019.12 ~ 2020.01
 
-- **url**: https://24seconds.github.io/baseballReport/
+- **url**: [https://24seconds.github.io/baseballReport/](https://24seconds.github.io/baseballReport/)
 
 - info : Write report of bet system
 
@@ -83,9 +85,9 @@ Updated : Sun 01 Mar 2020
 
 #### period : 2019.03 ~ 2019.05
 
-- **demo** : https://24seconds.github.io/rubikscube/ (`support desktop view and mobile view in chrome`)
+- **demo** : [https://24seconds.github.io/rubikscube/](https://24seconds.github.io/rubikscube/) (`support desktop view and mobile view in chrome`)
 
-- **url** : https://github.com/24seconds/RubiksCube
+- **url** : [https://github.com/24seconds/RubiksCube](https://github.com/24seconds/RubiksCube)
 
 - info : Implement rubik's cube using HTML, CSS, javascript
 
@@ -97,7 +99,7 @@ Updated : Sun 01 Mar 2020
    - gimbal lock, quaternion  
    - how to design application from scratch  
 
-  <img src="https://imgur.com/w7xYwSj.png" width="200" style="margin: 16px 0;">
+  <img src="./assets/rubiks_cube.png" width="200" style="margin: 16px 0;">
 
 -----
 
@@ -147,6 +149,7 @@ Updated : Sun 01 Mar 2020
     - what I've learned : react, how to communicate with back-end
     - skill : react, github
 
+-----------
 
 ## Interest
 
