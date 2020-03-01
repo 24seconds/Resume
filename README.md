@@ -64,7 +64,6 @@ Updated : Sun 01 Mar 2020
 <img src="./assets/roulette_image_1.png" width="250" style="margin: 0px 16px;">
 <img src="./assets/roulette_image_2.png" width="280">
 
-------
 
 ### [Baseball Report](https://24seconds.github.io/baseballReport/)
 
@@ -78,8 +77,6 @@ Updated : Sun 01 Mar 2020
   - data crawling, how other web site works, process raw data (parse html and get data)  
   - hugo theme, understand http request more
 
-
-------
 
 ### [Rubik's Cube](https://github.com/24seconds/RubiksCube)
 
@@ -101,7 +98,6 @@ Updated : Sun 01 Mar 2020
 
   <img src="./assets/rubiks_cube.png" width="200" style="margin: 16px 0;">
 
------
 
 ### [KENS](https://github.com/ANLAB-KAIST/KENSv3)
 
@@ -115,7 +111,6 @@ Updated : Sun 01 Mar 2020
 
  - what I've Learned : How TCP works
 
-----
 
 ### Mad Camp
 
